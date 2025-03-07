@@ -39,10 +39,10 @@
 <img src="https://www.openwall.com/john/generic-john-logo.png" width="40px"> **John The Ripper**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Metasploit_logo.png" width="40px"> **Metasploit**  
 
-### 💾 Development  
+### 💻 Programming Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"> **Python**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px"> **Bash**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="40px"> **ASP.NET Core**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"> **C#**  
 
 ### 🌐 Infrastructure & Networking  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"> **Docker**  
