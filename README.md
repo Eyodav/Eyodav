@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=40&pause=1000&color=00FF00&center=true&width=1000&height=60&lines=Welcome+to+my+GitHub!;Pentester+and+CTF+Player!;Cybersecurity+Student!;Always+learning+and+hacking!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=40&pause=1000&color=00FF00&center=true&width=1000&height=60&lines=Welcome+to+my+GitHub!;Always+learning+and+hack!)
 
 
 ![Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlhcGt2MGZyNGU3bnNhandrOGg1bzhtbWdoenQ2dHdzY29rbHNraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.gif) &nbsp; <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-565.gif" width="300px">
