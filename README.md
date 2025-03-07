@@ -5,15 +5,14 @@
 
 
 ### 🔥 Aboute Me:
-
 ### 🛠  Pentester and Cybersecurity student
 ### 💻 CTF Player !
 
-### 🏗️ Ongoing Projects:
 
+### 🏗️ Ongoing Projects:
 ### 🚀 Pentest AI
 ### 🎵 YouTube Music App for Xbox
 
-`
+
 ### 🎯 Future Goals:
 ### ✅ Improve my reverse engineering and cryptanalysis skills.
