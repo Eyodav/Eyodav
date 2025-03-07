@@ -33,7 +33,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Windows_logo_-_2021.svg" width="40px"> **Windows**  
 
 ### 🔹 Cybersecurity  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-Kali.png" width="40px"> **Kali Linux**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40px"> **Kali Linux**
+ **Kali Linux**  
 <img src="https://www.logo.wine/a/logo/Wireshark/Wireshark-Logo.wine.svg" width="90px"> **Wireshark**  
 <img src="https://seeklogo.com/images/S/shodan-logo-48B6AAFF09-seeklogo.com.png" width="40px"> **Shodan**  
 <img src="https://www.openwall.com/john/generic-john-logo.png" width="40px"> **John The Ripper**  
