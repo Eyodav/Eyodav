@@ -33,7 +33,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Windows_logo_-_2021.svg" width="40px"> **Windows**  
 
 ### 🔹 Cybersecurity  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Kali_Linux_Logo.png?20131022220252" width="40px"> **Kali Linux**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Kali_Linux_Logo.png?20131022220252" width="70px">  
 
 
 ### 💻 Programming Languages  
