@@ -60,4 +60,8 @@
 
 ---
 
+### Some Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Eyodav&color=blue)
+
+
 🚀 **Always looking for new challenges!**  
