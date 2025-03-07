@@ -35,9 +35,8 @@
 ### 🔹 Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-000000?style=flat-square&logo=shodan&logoColor=white)
-![John The Ripper](https://img.shields.io/badge/John_The_Ripper-9C1A22?style=flat-square&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burp-suite&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-1E90FF?style=flat-square&logo=detective&logoColor=white)
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
