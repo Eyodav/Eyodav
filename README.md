@@ -60,12 +60,10 @@
 
 ---
 
-🚀 **Always looking for new challenges!**  
-
----
-
 ## 🎵 Recently Played on Spotify  
 
-[![Spotify Recently Played](https://spotify-recently-played.vercel.app/api?user=Eyodav)](https://open.spotify.com/user/Eyodav)
+[![Spotify Recently Played](https://spotify-recently-played.vercel.app/api?user=f3gvl2hqzqpm1rzp982zt6v22)](https://open.spotify.com/user/f3gvl2hqzqpm1rzp982zt6v22)
 
 ---
+
+🚀 **Always looking for new challenges!**  
