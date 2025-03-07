@@ -30,26 +30,26 @@
 
 ### 🖥️ Operating Systems  
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40px"> **Linux (Debian 12 Bookworm)**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_windows_logo.png" width="40px"> **Windows**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Windows_logo_-_2021.svg" width="40px"> **Windows**  
 
 ### 🔹 Cybersecurity  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kali-dragon-icon.svg/120px-Kali-dragon-icon.svg.png" width="40px"> **Kali Linux**  
-<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40px"> **Wireshark**  
-<img src="https://www.vectorlogo.zone/logos/shodan/shodan-icon.svg" width="40px"> **Shodan**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-Kali.png" width="40px"> **Kali Linux**  
+<img src="https://www.logo.wine/a/logo/Wireshark/Wireshark-Logo.wine.svg" width="90px"> **Wireshark**  
+<img src="https://seeklogo.com/images/S/shodan-logo-48B6AAFF09-seeklogo.com.png" width="40px"> **Shodan**  
 <img src="https://www.openwall.com/john/generic-john-logo.png" width="40px"> **John The Ripper**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Metasploit_logo.png" width="40px"> **Metasploit**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Metasploit_logo_and_wordmark.svg/512px-Metasploit_logo_and_wordmark.svg.png" width="80px"> **Metasploit**  
 
 ### 💻 Programming Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"> **Python**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px"> **Bash**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"> **C#**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="40px"> **Bash**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40px"> **C#**  
 
 ### 🌐 Infrastructure & Networking  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"> **Docker**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40px"> **Nginx Proxy Manager**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/OVH_Cloud_logo.svg" width="80px"> **OVH**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40px"> **Apache**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Cloudflare_Logo.png" width="80px"> **Cloudflare**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" width="80px"> **Docker**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/512px-Nginx_logo.svg.png" width="80px"> **Nginx Proxy Manager**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/OVH_Logo.svg/1024px-OVH_Logo.svg.png" width="80px"> **OVH**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Apache_HTTP_server_logo_%282019-present%29.svg/512px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="80px"> **Apache**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cloudflare_Logo.png/512px-Cloudflare_Logo.png" width="80px"> **Cloudflare**  
 
 ---
 
