@@ -61,7 +61,8 @@
 ---
 
 ### Some Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Eyodav&style=flat-square)
+<img src="https://profile-counter.glitch.me/Eyodav/count.svg" alt="Visitors" style="max-width: 100%;">
+
 
 
 🚀 **Always looking for new challenges!**  
