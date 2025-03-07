@@ -1,4 +1,5 @@
-## Hi there 👋 ![Gif](https://i.gifer.com/2cBP.gif)
+## Hi there 👋 <img src="https://media1.tenor.com/images/ee81555d7dea99b52f80ae54f944fc3d/tenor.gif" width="400px">
+
 
 
 <!--
