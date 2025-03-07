@@ -1,4 +1,4 @@
-## Hi there 👋 <img src="https://i.gifer.com/2cBP.gif" width="400px">
+## Hi there 👋 <img src="https://i.gifer.com/2cBP.gif" width="100px">
 
 
 
