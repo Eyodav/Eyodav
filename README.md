@@ -26,20 +26,31 @@
 
 ---
 
-## 🛠️ Knowledge & Skills  
+## 🛠️ Knowledge & Skills
 
-### 🖥️ Operating Systems  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40px"> **Linux (Debian 12 Bookworm)**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Windows_logo_-_2021.svg" width="40px"> **Windows**  
+### 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-### 🔹 Cybersecurity  
-<img src="https://toppng.com/public/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" width="70px">  
+### 🔹 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-000000?style=flat-square&logo=shodan&logoColor=white)
+![John The Ripper](https://img.shields.io/badge/John_The_Ripper-9C1A22?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white)
 
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-### 💻 Programming Languages  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40px"> **Python**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="40px"> **Bash**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40px"> **C#**  
+### 🌐 Infrastructure & Networking
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![OVH](https://img.shields.io/badge/OVH-123F6D?style=flat-square&logo=ovh&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
 
 
 ---
