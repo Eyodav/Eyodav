@@ -1,3 +1,5 @@
+![Hackura AI]([[https://media.giphy.com/media/YOUR_GIF_URL/giphy.gif](https://media1.tenor.com/images/ee81555d7dea99b52f80ae54f944fc3d/tenor.gif?itemid=13469492)])
+
 ## Hi there 👋
 
 <!--
