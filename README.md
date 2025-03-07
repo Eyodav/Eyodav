@@ -5,10 +5,12 @@
 ---
 
 ## 🔥 About Me  
+
+<details>
+  <summary>Click to expand</summary>
+
 🔹 **Pentester | Security Researcher | Cybersecurity Student**  
 🔹 **CTF Player & Bug Hunter**  
-
----
 
 ### 📝 Quick Facts  
 - **Name:** Eyodav  
@@ -22,6 +24,8 @@
   - **Cryptanalysis & Reverse Engineering**  
 
 - **I’m currently learning:** Everything I can! 🚀  
+
+</details>
 
 ---
 
