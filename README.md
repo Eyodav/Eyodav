@@ -4,7 +4,28 @@
 
 ---
 
-### 🔥 About Me  
+## <details>
+  <summary>🔥 About Me</summary>
+🔹 **Pentester | Security Researcher | Cybersecurity Student**  
+🔹 **CTF Player & Bug Hunter**  
+
+---
+
+### 📝 About Me  
+- **Name:** Eyodav  
+- **From:** France 🇫🇷  
+- **Specialties:**  
+  - **Pentesting** 🔥
+  - **Bug Hunting** 🐞  
+  - **Forensics & OSINT** 🔍  
+
+
+- **Currently improving my knowledge in:**  
+  - **Cryptanalysis & Reverse Engineering**   
+
+- **I’m currently learning:** Everything I can! 🚀  
+</details>
+
 
 🛠 **Pentester and Cybersecurity student**  
 
