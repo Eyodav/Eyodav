@@ -12,7 +12,7 @@
 <details>
   <summary>Click to expand</summary>
 
-🔹 **Pentester | Security Researcher | Cybersecurity Student**  
+🔹 **Pentester | Cybersecurity Student**  
 🔹 **CTF Player & Bug Hunter**  
 
 ### 📝 Quick Facts  
