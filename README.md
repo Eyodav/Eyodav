@@ -63,9 +63,5 @@
 
 ---
 
-### Some Stats
-<img src="https://profile-counter.glitch.me/Eyodav/count.svg" alt="Visitors" style="max-width: 100%;">
-
-
 
 🚀 **Always looking for new challenges!**  
