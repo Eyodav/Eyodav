@@ -30,7 +30,7 @@
 
 ---
 
-### 🏗️ Ongoing Projects  
+### 🏗️ Future Projects  
 🚀 **Pentest AI**  
 🎵 **YouTube Music App for Xbox**  
 
