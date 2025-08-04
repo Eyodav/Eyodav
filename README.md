@@ -61,10 +61,6 @@
 ---
 
 ## 📊 Stats  
-
-- 🔐 **CTF Participations:** 20+  
-- 🐞 **Bugs Reported:** 20+  
-- 🧪 **Labs Built:** ICS / WebApp / Active Directory  
 - <details>
   <summary><b>🚨 My CVE </b></summary>
 
@@ -73,6 +69,10 @@
   | 🧠 CVE-2025-54962                                           | Unfiltred File Upload OpenPLC                  | [GitHub]([https://github.com/Chocapikk/CVE-2023-50917](https://github.com/Eyodav/CVE-2025-54962))                                  
 
 </details>  
+- 🔐 **CTF Participations:** 20+  
+- 🐞 **Bugs Reported:** 20+  
+- 🧪 **Labs Built:** ICS / WebApp / Active Directory  
+
 
 
 ---
