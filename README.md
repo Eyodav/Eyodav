@@ -18,12 +18,7 @@
 - **Specialties:**  
   - **Pentesting** 🔥  
   - **Bug Hunting** 🐞  
-  - **Forensics & OSINT** 🔍  
-
-- **Currently improving my skills in:**  
-  - **Cryptanalysis & Reverse Engineering**  
-
-- **I’m currently learning:** Everything I can! 🚀  
+  - **Forensics & OSINT** 🔍 
 
 </details>
 
