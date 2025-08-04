@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=40&pause=1000&color=00FF00&center=true&width=1000&height=60&lines=Welcome+to+my+GitHub!;Always+learning+and+hack!)
 
-
 # Hi there, I'm Eyodav 👋  
 
 ---
@@ -61,5 +60,13 @@
 
 ---
 
+## 📊 Stats  
+
+- 🧠 **CVE Published:** `x1` ([CVE-2025-54962](https://www.cve.org/CVERecord?id=CVE-2025-54962))  
+- 🔐 **CTF Participations:** 20+  
+- 🐞 **Bugs Reported:** 20+  
+- 🧪 **Labs Built:** ICS / WebApp / Active Directory  
+
+---
 
 🚀 **Always looking for new challenges!**  
