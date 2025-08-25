@@ -69,8 +69,8 @@
   </details>
 
 - 🔐 **CTF Participations:** 20+  
-- 🐞 **Bugs Reported:** 20+  
-- 🧪 **Labs Built:** ICS / WebApp / Active Directory
+- 🐞 **Bugs Reported:** 40+
+- 🌍 **TryHackMe:** formerly top 30 FR
 
 
 
