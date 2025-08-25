@@ -64,7 +64,7 @@
 
   | CVE Identifier    | Description                       | Links                                                                                      |
   |-------------------|-----------------------------------|--------------------------------------------------------------------------------------------|
-  | 🧠 CVE-2025-54962 | Unfiltered File Upload in OpenPLC | [GitHub](https://github.com/Eyodav/CVE-2025-54962) · [CVE.org](https://cve.org/CVERecord?id=CVE-2025-54962) |
+  | 🐱‍💻 CVE-2025-54962 | Unfiltered File Upload in OpenPLC | [GitHub](https://github.com/Eyodav/CVE-2025-54962) · [CVE.org](https://cve.org/CVERecord?id=CVE-2025-54962) |
 
   </details>
 
