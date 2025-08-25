@@ -70,7 +70,7 @@
 
 - 🔐 **CTF Participations:** 20+  
 - 🐞 **Bugs Reported:** 40+
-- 🌍 **TryHackMe:** formerly top 30 FR
+- 🌍 **TryHackMe:** formerly top 30 FRANCE
 
 
 
