@@ -58,13 +58,15 @@
 ## 📊 Stats  
 
 - <details>
-  <summary><b>🚨 My CVE</b></summary>
+  <summary><b>🚨 My CVEs</b></summary>
 
   <br>
 
-  | CVE Identifier    | Description                       | Links                                                                                      |
-  |-------------------|-----------------------------------|--------------------------------------------------------------------------------------------|
-  | 🐱‍💻 CVE-2025-54962 | Unfiltered File Upload in OpenPLC | [GitHub](https://github.com/Eyodav/CVE-2025-54962) · [CVE.org](https://cve.org/CVERecord?id=CVE-2025-54962) |
+  | CVE Identifier    | Title / Description                         | Links                                                                                                      |
+  |-------------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------|
+  | CVE-2025-34157    | Stored XSS in Coolify Delete Flow           | [GitHub](https://github.com/Eyodav/CVE-2025-34157) · [CVE.org](https://www.cve.org/CVERecord?id=CVE-2025-34157) |
+  | CVE-2025-34159    | Docker Compose Injection in Coolify          | [GitHub](https://github.com/Eyodav/CVE-2025-34159) · [CVE.org](https://www.cve.org/CVERecord?id=CVE-2025-34159) |
+  | CVE-2025-54962    | Unfiltered File Upload in OpenPLC           | [GitHub](https://github.com/Eyodav/CVE-2025-54962) · [CVE.org](https://cve.org/CVERecord?id=CVE-2025-54962) |
 
   </details>
 
