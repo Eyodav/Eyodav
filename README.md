@@ -10,6 +10,7 @@
   <summary>Click to expand</summary>
 
 🔹 **Pentester | Cybersecurity Student**  
+
 🔹 **<ruby>Security researcher<rt><ins>セキュリティ研究者</ins></rt></ruby> <ruby>Bug bounty hunter<rt><ins>バグバウンティハンター</ins></rt></ruby>**  
 
 ### 📝 Quick Facts  
