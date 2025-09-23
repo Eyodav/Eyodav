@@ -10,7 +10,7 @@
   <summary>Click to expand</summary>
 
 🔹 **Pentester | Cybersecurity Student**  
-🔹 **CTF Player & Bug Hunter**  
+🔹 **<ruby>Security researcher<rt><ins>セキュリティ研究者</ins></rt></ruby> <ruby>Bug bounty hunter<rt><ins>バグバウンティハンター</ins></rt></ruby>**  
 
 ### 📝 Quick Facts  
 - **Name:** Eyodav  
@@ -20,13 +20,7 @@
   - **Bug Hunting** 🐞  
   - **Forensics & OSINT** 🔍 
 
-</details>
-
----
-
-### 🏗️ Future Projects  
-🚀 **Pentest AI**  
-🎵 **YouTube Music App for Xbox**  
+</details> 
 
 ---
 
