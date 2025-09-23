@@ -1,59 +1,27 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=40&pause=1000&color=00FF00&center=true&width=1000&height=60&lines=Welcome+to+my+GitHub!;Always+learning+and+hack!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=40&pause=1000&color=FF69B4&center=true&width=1000&height=60&lines=+Welcome+to+my+GitHub!;+Always+learning+and+hack!)
 
-# Hi there, I'm Eyodav 👋  
+
+# Hi there, I'm <ruby>Eyodav<rt><ins>エヨダヴ</ins></rt>👋</ruby>
 
 ---
 
-## 🔥 About Me  
-
-<details>
-  <summary>Click to expand</summary>
-
+##  About Me  
 🔹 **Pentester | Cybersecurity Student**  
 
 🔹 **<ruby>Security researcher<rt><ins>セキュリティ研究者</ins></rt></ruby> <ruby>Bug bounty hunter<rt><ins>バグバウンティハンター</ins></rt></ruby>**  
 
-### 📝 Quick Facts  
-- **Name:** Eyodav  
-- **Location:** France 🇫🇷  
+### 📝 Quick Facts   
 - **Specialties:**  
-  - **Pentesting** 🔥  
-  - **Bug Hunting** 🐞  
-  - **Forensics & OSINT** 🔍 
-
-</details> 
-
+  - **Pentesting** 
+  - **Bug Hunting**
+  - **Forensics & OSINT** 
 ---
 
-### 🎯 Future Goals  
-✅ **Improve my reverse engineering and cryptanalysis skills**  
-
----
-
-## 🛠️ Knowledge & Skills  
-
-### 🖥️ Operating Systems  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
-
-### 🔹 Cybersecurity Tools  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burp-suite&logoColor=white)  
-![OSINT](https://img.shields.io/badge/OSINT-1E90FF?style=flat-square&logo=detective&logoColor=white)  
-
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-
----
 
 ## 📊 Stats  
 
 - <details>
-  <summary><b>🚨 My CVEs</b></summary>
+  <summary><b> My CVEs</b></summary>
 
   <br>
 
@@ -66,12 +34,30 @@
 
   </details>
 
-- 🐞 **Bugs Reported:** 40+
-- 🌍 **TryHackMe:** formerly Top 30 in France
+
+## Spotify  
+
+<details>
+  <summary><b>Songs I Listen To</b></summary>
+  <div align="center">
+
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=f3gvl2hqzqpm1rzp982zt6v22&count=6&width=500" alt="Spotify Recently Played">
+
+  </div>
+</details>
+
+---  
+
+## 🌸 GitHub Stats 
+
+<details>
+  <summary><b>Click to expand</b></summary>
+  <div align="center">
+    
+  <img src="https://github-readme-stats.vercel.app/api?username=eyodav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=fff0f6&title_color=ff69b4&icon_color=ffb6c1&text_color=ff69b4" alt="Eyodav GitHub Stats" width="500"/>
 
 
+  </div>
+</details>
 
 
----
-
-🚀 **Always looking for new challenges!**  
