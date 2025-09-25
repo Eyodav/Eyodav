@@ -31,6 +31,7 @@
   | CVE-2025-34159 | Docker Compose Injection in Coolify                  | [GitHub](https://github.com/Eyodav/CVE-2025-34159) · [CVE.org](https://www.cve.org/CVERecord?id=CVE-2025-34159) |
   | CVE-2025-34161 | Git Repository Command Injection in Coolify          | [GitHub](https://github.com/Eyodav/CVE-2025-34161) · [CVE.org](https://www.cve.org/CVERecord?id=CVE-2025-34161) |
   | CVE-2025-54962 | Unfiltered File Upload in OpenPLC                    | [GitHub](https://github.com/Eyodav/CVE-2025-54962) · [CVE.org](https://www.cve.org/CVERecord?id=CVE-2025-54962) |
+  | CVE-2025-XXXXX | New CVEs soon !                                      | [MyWebsite](https://eyodav.fr/) |
 
   </details>
 
