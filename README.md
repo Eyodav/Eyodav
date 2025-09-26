@@ -33,14 +33,13 @@
   | CVE-2025-54962 | Unfiltered File Upload in OpenPLC                    | [GitHub](https://github.com/Eyodav/CVE-2025-54962) · [CVE.org](https://www.cve.org/CVERecord?id=CVE-2025-54962) |
   | CVE-2025-XXXXX | New CVEs soon !                                      | [MyWebsite](https://eyodav.fr/) |
 
+
   </details>
 
-<a href="https://github.com/Eyodav/CVE-2025-34161">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eyodav&repo=CVE-2025-34161" />
-</a>
-<a href="https://github.com/Eyodav/CVE-2025-34159">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eyodav&repo=CVE-2025-34159" />
-</a>
+
+
+
+
 
 ## Spotify  
 
