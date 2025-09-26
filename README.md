@@ -56,7 +56,6 @@
   <div align="center">
     
   <img src="https://github-readme-stats.vercel.app/api?username=eyodav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=fff0f6&title_color=ff69b4&icon_color=ffb6c1&text_color=ff69b4" alt="Eyodav GitHub Stats" width="500"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyodav&hide_progress=true)
 
 
   </div>
