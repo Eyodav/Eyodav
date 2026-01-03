@@ -45,9 +45,12 @@
 
 <details>
   <summary><b>Songs I Listen To</b></summary>
+
+  <br>
+
   <div align="center">
 
-  <img src="![spotify](https://spotify-recently-played-readme.vercel.app/api?user=f3gvl2hqzqpm1rzp982zt6v22&count=5">
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=f3gvl2hqzqpm1rzp982zt6v22&count=5)
 
   </div>
 </details>
@@ -60,7 +63,7 @@
   <summary><b>Click to expand</b></summary>
   <div align="center">
     
-  <img src="https://github-readme-stats.vercel.app/api?username=eyodav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=fff0f6&title_color=ff69b4&icon_color=ffb6c1&text_color=ff69b4" alt="Eyodav GitHub Stats" width="500"/>
+  ![Eyodav GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=eyodav&show_icons=true&include_all_commits=true&hide=stars,contribs&show=issues,reviews,prs_merged&theme=transparent&title_color=ff69b4&icon_color=ffb7c5&text_color=ff69b4&ring_color=ff9acb&bg_color=00000000&hide_border=true)
 
 
   </div>
