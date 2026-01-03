@@ -47,7 +47,7 @@
   <summary><b>Songs I Listen To</b></summary>
   <div align="center">
 
-  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=f3gvl2hqzqpm1rzp982zt6v22&count=5)&count=6&width=500" alt="Spotify Recently Played">
+  <img src="![spotify](https://spotify-recently-played-readme.vercel.app/api?user=f3gvl2hqzqpm1rzp982zt6v22&count=5">
 
   </div>
 </details>
