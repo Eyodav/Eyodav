@@ -32,7 +32,7 @@
   | CVE-2025-34161 | Git Repository Command Injection in Coolify          | [GitHub](https://github.com/Eyodav/CVE-2025-34161) · [CVE.org](https://www.cve.org/CVERecord?id=CVE-2025-34161) |
   | CVE-2025-54962 | Unfiltered File Upload in OpenPLC                    | [GitHub](https://github.com/Eyodav/CVE-2025-54962) · [CVE.org](https://www.cve.org/CVERecord?id=CVE-2025-54962) |
   | CVE-2025-34226 | Persistent DoS in OpenPLC Runtime                    | [GitHub](https://github.com/Eyodav/CVE-2025-34226) · [CVE.org](https://www.cve.org/cverecord?id=CVE-2025-34226) |
-
+  | CVE-2025-34171 |  CasaOS Unauthenticated File and Debug Data Exposure                    | [GitHub](https://github.com/Eyodav/CVE-2025-34171) · [CVE.org](https://www.cve.org/cverecord?id=CVE-2025-34171) |
 
   </details>
 
