@@ -1,4 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=40&pause=1000&color=FF69B4&center=true&width=1000&height=60&lines=+Welcome+to+my+GitHub!;+Always+learning+and+hack!)
+<img width="1344" height="768" alt="Eyodav" src="https://github.com/user-attachments/assets/e3df9200-dfbb-40bd-afb5-f02145295044" />
 
 
 # Hi there, I'm <ruby>Eyodav<rt><ins>エヨダヴ</ins></rt>👋</ruby>
