@@ -4,7 +4,6 @@
 # Hi there, I'm <ruby>Eyodav<rt><ins>エヨダヴ</ins></rt>👋</ruby>
 
 <img width="1344" height="768" alt="Eyodav" src="https://github.com/user-attachments/assets/e3df9200-dfbb-40bd-afb5-f02145295044" />
----
 
 ##  About Me  
 🔹 **Pentester | Cybersecurity Student**  
